@@ -1,5 +1,5 @@
 # ContextMenuImageConvertor
-_Right click images on windows and have the ability to convert them to jpeg instantly_
+_Right click images on windows and convert them to jpeg instantly_
 
 ![Image](https://raw.githubusercontent.com/shabbs15/ContextMenuImageConvertor/main/MEJPPqhAMi.png)
 

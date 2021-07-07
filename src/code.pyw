@@ -10,7 +10,7 @@ for value in sys.argv[2:]:
 
 image = Image.open(filePath)
 
-name = os.path.splitext(os.path.basename(filePath))[0]
+image.save(os.path.dirname(filePath) + "\\" + name + "-updated" + ".jpg")
 
 image = image.convert("RGB")
 image.save(name + "-updated" + ".jpg")

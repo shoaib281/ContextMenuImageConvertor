@@ -10,7 +10,3 @@ _Right click images on windows and convert them to jpeg instantly_
 3. Run cmd as administrator
 4. Run install.py in src from [cmd](https://www.wikihow.com/Use-Windows-Command-Prompt-to-Run-a-Python-File)
 5. Right click the test elephant and "Image2Jpeg" should appear
-
-### Show your support
-
-Follow me on Twitter [@iamshabbs15](https://twitter.com/iamshabbs15), for updates, you can contact me there as well
